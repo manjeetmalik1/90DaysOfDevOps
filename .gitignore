@@ -39,3 +39,5 @@ crash.log
 .cache/
 .pytest_cache/
 coverage/
+
+.make.txt
